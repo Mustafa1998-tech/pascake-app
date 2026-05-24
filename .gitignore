@@ -1,0 +1,49 @@
+# Flutter
+.dart_tool/
+.packages
+build/
+*.iml
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+packages/
+pubspec.lock
+
+# Android
+android/.gradle/
+android/app/build/
+local.properties
+*.keystore
+*.jks
+key.properties
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+serve_servers.js
+check_site.js
+check_images.js
+
+# APK files (build locally)
+*.apk
+
+# Project
+*.log
+.DartCache
