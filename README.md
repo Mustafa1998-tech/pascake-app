@@ -71,9 +71,3 @@ Pascake app/
 - **الخطوط**: Playfair Display (عناوين), Lato (نصوص), Montserrat (أزرار)
 - **الشعار**: Logo مخصص في `assets/images/logo.jpeg`
 
-## 📞 التواصل
-
-- **واتساب**: [+966 56 051 4370](https://wa.me/966560514370)
-- **البريد**: Roaafaisal07@gmail.com
-- **إنستغرام**: [@_pascake](https://www.instagram.com/_pascake)
-- **العنوان**: المنطقة الشرقية، الدمام/الخبر
